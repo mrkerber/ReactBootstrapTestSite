@@ -1,1 +1,1 @@
-A poorly styled and responsive multi-panel test website. Built using React.js and Bootstrap.
+A fully responsive, but poorly styled test website, built using React.js and Bootstrap.
